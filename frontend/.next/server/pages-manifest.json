@@ -1,9 +1,20 @@
 {
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/_error": "pages/_error.js",
+  "/account": "pages/account.js",
+  "/homeAppliance": "pages/homeAppliance.js",
   "/": "pages/index.js",
-  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js",
   "/jeans": "pages/jeans.js",
-  "/shoes": "pages/shoes.js"
+  "/order/[id]": "pages/order/[id].js",
+  "/orders": "pages/orders.js",
+  "/product/[id]": "pages/product/[id].js",
+  "/products/[page]": "pages/products/[page].js",
+  "/products": "pages/products.js",
+  "/reset": "pages/reset.js",
+  "/sell": "pages/sell.js",
+  "/shirts": "pages/shirts.js",
+  "/shoes": "pages/shoes.js",
+  "/signin": "pages/signin.js",
+  "/update": "pages/update.js",
+  "/_error": "pages/_error.js"
 }
